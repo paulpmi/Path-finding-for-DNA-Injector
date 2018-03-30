@@ -1,0 +1,2 @@
+# Path-finding-for-DNA-Injector
+This is a implementation for finding the optimal path with the optimal speed and needle care for a DNA injector. It uses A* for finding the best path give the criterias to avoid during its search. There si also a Greedy implementation of pathfinding. The needles height must not be bended while passing over an obstacle so it retracts and when it injects it gets to the level of the injected object. The speed and needle caring is determined after the optimal path has been found.
