@@ -1,0 +1,11 @@
+C:\Users\paulp\Source\Repos\Stratec\Stratec\bin\Debug\Stratec.exe.config
+C:\Users\paulp\Source\Repos\Stratec\Stratec\bin\Debug\Stratec.exe
+C:\Users\paulp\Source\Repos\Stratec\Stratec\bin\Debug\Stratec.pdb
+C:\Users\paulp\Source\Repos\Stratec\Stratec\obj\Debug\Stratec.csprojResolveAssemblyReference.cache
+C:\Users\paulp\Source\Repos\Stratec\Stratec\obj\Debug\Stratec.Properties.Resources.resources
+C:\Users\paulp\Source\Repos\Stratec\Stratec\obj\Debug\Stratec.csproj.GenerateResource.Cache
+C:\Users\paulp\Source\Repos\Stratec\Stratec\obj\Debug\Stratec.csproj.CoreCompileInputs.cache
+C:\Users\paulp\Source\Repos\Stratec\Stratec\obj\Debug\Stratec.exe
+C:\Users\paulp\Source\Repos\Stratec\Stratec\obj\Debug\Stratec.pdb
+C:\Users\paulp\Source\Repos\Stratec\Stratec\bin\Debug\RapidPriorityQueue.dll
+C:\Users\paulp\Source\Repos\Stratec\Stratec\obj\Debug\Stratec.Form1.resources
